@@ -29,7 +29,7 @@ function Alerts() {
         style={{ width: "30rem" }}
       >
         <Card.Body>
-        <Card.Title>Alert</Card.Title>
+        <Card.Title>Alerts</Card.Title>
         <Card.Text>{alert.attributes.header}{alert.attributes.description}</Card.Text>
         </Card.Body>
       </Card>
