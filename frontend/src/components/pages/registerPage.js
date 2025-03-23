@@ -135,7 +135,7 @@ const Register = () => {
                   style={buttonStyling}
                   className="mt-2"
                 >
-                  Register
+                  Register Now
                 </Button>
               </Form>
             </div>
